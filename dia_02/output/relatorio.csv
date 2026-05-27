@@ -1,0 +1,9 @@
+metrica,valor
+total_faturado,2250.0
+qtd_os_finalizadas,9
+cliente_maior_faturamento,João
+valor_cliente_maior_faturamento,970.0
+servico_maior_media,Revisão
+valor_servico_maior_media,500.0
+primeira_data_finalizada,2026-01-05 00:00:00
+ultima_data_finalizada,2026-01-22 00:00:00

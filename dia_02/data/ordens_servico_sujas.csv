@@ -1,0 +1,13 @@
+id_os,cliente,servico,valor,status,data_os
+1,João,Troca de Óleo,120,Finalizado,2026-01-05
+2,Maria,Alinhamento,80,finalizado,2026-01-06
+3,João,Freio,350,Finalizado ,2026-01-08
+4,Carlos,Troca de Óleo,120,Pendente,2026-01-09
+5,Maria,Freio,,Finalizado,2026-01-10
+6,Ana,Revisão,500,Finalizado,2026-01-12
+7,João,Revisão,500,FINALIZADO,2026-01-15
+8,Carlos,Alinhamento,80,Finalizado,2026-01-16
+9,Ana,Freio,320,Pendente,2026-01-18
+10,Maria,Revisão,500,Finalizado,2026-01-20
+11,Pedro,Bateria,450,Cancelado,2026-01-21
+12,Ana,Troca de Óleo,120,finalizado,2026-01-22
