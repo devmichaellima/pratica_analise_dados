@@ -1,0 +1,16 @@
+id_os,id_cliente,servico,valor,status
+1,1,Troca de Óleo,120,Finalizado
+2,2,Alinhamento,80,Finalizado
+3,1,Freio,350,Finalizado
+4,4,Troca de Óleo,120,Pendente
+5,2,Freio,300,Finalizado
+6,3,Revisão,500,Finalizado
+7,1,Revisão,500,Finalizado
+8,4,Alinhamento,80,Finalizado
+9,3,Freio,320,Pendente
+10,2,Revisão,500,Finalizado
+11,5,Bateria,450,Finalizado
+12,6,Troca de Óleo,120,Finalizado
+13,6,Freio,380,Finalizado
+14,5,Bateria,420,Cancelado
+15,3,Alinhamento,90,Finalizado

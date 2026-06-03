@@ -1,0 +1,7 @@
+,nome_cliente,id_cliente,cidade,faturamento_total,qtd_ordens,ticket_medio
+2,João,1,São Paulo,970,3,323.3
+4,Maria,2,São Paulo,880,3,293.3
+0,Ana,3,Guarulhos,590,2,295.0
+1,Carlos,4,Suzano,80,1,80.0
+5,Pedro,5,Mogi das Cruzes,450,1,450.0
+3,Juliana,6,Guarulhos,500,2,250.0
