@@ -1,0 +1,17 @@
+id_os,cliente,servico,valor,status
+1,João,Troca de Óleo,120,Finalizado
+2,Maria,Alinhamento,80,Finalizado
+3,João,Freio,350,Finalizado
+4,Carlos,Troca de Óleo,120,Pendente
+5,Maria,Freio,300,Finalizado
+6,Ana,Revisão,500,Finalizado
+7,João,Revisão,500,Finalizado
+8,Carlos,Alinhamento,80,Finalizado
+9,Ana,Freio,320,Pendente
+10,Maria,Revisão,500,Finalizado
+11,Pedro,Bateria,450,Finalizado
+12,Ana,Troca de Óleo,120,Finalizado
+13,João,Freio,380,Finalizado
+14,Carlos,Bateria,420,Cancelado
+15,Maria,Alinhamento,90,Finalizado
+16,Ana,Revisão,550,Finalizado
