@@ -1,0 +1,3 @@
+id_cliente,nome_cliente,cidade,id_os,servico,valor,status
+99,Ausente,Ausente,16,Revisão,600,Finalizado
+100,Ausente,Ausente,17,Freio,400,Finalizado
