@@ -1,0 +1,9 @@
+metrica,valor
+faturamento_total,4620
+qtd_ordens_finalizadas,15
+ticket_medio_geral,308.0
+cliente_maior_faturamento,João
+cidade_maior_faturamento,São Paulo
+categoria_maior_faturamento,Manutenção
+primeira_data_finalizada,2026-01-05 00:00:00
+ultima_data_finalizada,2026-01-22 00:00:00
